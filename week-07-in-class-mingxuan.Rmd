@@ -243,6 +243,7 @@ increments[which.min(abs(ExpGains2))]
 
 
 MeanFromSimu(100,0.48,increment = 0.0175,num_bet = 100000)
+
     ```
 
 
